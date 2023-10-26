@@ -6,11 +6,20 @@
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/yuris60" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://orcid.org/0000-0001-8971-594X" title="Google Scholar" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/yuris60" title="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@YurisAlkhalifiYAK" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge"/>
+  </a>
+  <a href="https://instagram.com/yuris60" title="Youtube" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://sinta.kemdikbud.go.id/authors/profile/6769136" title="Sinta" target="_blank">
+    <img src="https://img.shields.io/badge/sinta%20kemdikbud-10586e?style=for-the-badge"/>
   </a>
 </p>
 
