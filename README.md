@@ -6,7 +6,7 @@
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
     <img src="https://img.shields.io/badge/google-scholar?style=for-the-badge&logo=google-scholar&logoColor=white&label=Yuris%20Alkhalifi&labelColor=-&color=%234285F4"/>
   </a>
-  <a href="https://twitter.com/yuris60" title="Instagram" target="_blank">
+  <a href="https://instagram.com/yuris60" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yuris60" title="Linkedin" target="_blank">
