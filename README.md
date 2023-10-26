@@ -1,4 +1,6 @@
-![Cover](/image/welcome.jpg)
+<p align="center">
+  <img src="image/welcome.jpg" width="700" height="442">
+</p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
