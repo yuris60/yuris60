@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuris60.visitor-badge&left_color=green&right_color=red) -->
+![Cover](/images/welcome.jpg)
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
