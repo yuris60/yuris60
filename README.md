@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
-    <img src="https://img.shields.io/badge/google-scholar?style=for-the-badge&logo=google-scholar&logoColor=white&label=Yuris%20Alkhalifi&labelColor=-&color=%234285F4"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge"/>
   </a>
   <a href="https://instagram.com/yuris60" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -16,10 +16,34 @@
 
 <p align="center" style="text-align: center; width:100%;">
   <h6>I CAN CODE</h6>
-  <span><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
   <span><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
   <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"/></span>
+</p>
+
+<p align="center" style="text-align: center; width:100%;">
+  <h6>FRAMEWORK & LIBRARY USED</h6>
+  <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"/></span>
+</p>
+
+<p align="center" style="text-align: center; width:100%;">
+  <h6>TOOLS USED</h6>
+  <span><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Adobe%20Audition-99F?logo=adobeaudition&logoColor=fff&style=for-the-badge"/></span>
 </p>
 
 ```js
