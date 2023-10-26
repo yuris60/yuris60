@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nurofsun.nurofsun" alt="Visitor Badge">
-</p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuris60.visitor-badge&left_color=green&right_color=red) -->
+
 <p align="center">
   <a href="https://scholar.google.com/citations?user=JejMIVwAAAAJ" title="Google Scholar" target="_blank">
     <img src="https://img.shields.io/badge/google-scholar?style=for-the-badge&logo=google-scholar&logoColor=white&label=Yuris%20Alkhalifi&labelColor=-&color=%234285F4"/>
