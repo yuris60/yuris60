@@ -74,9 +74,7 @@ const profile = {
 
 # Berkas Serkom 👋
 Yth. Bapak/Ibu Asesor Sertifikasi Kompetensi,<br>
-Berikut ini saya lampirkan persyaratan untuk Sertifikasi Kompetensi LSP BSI, adapun yang saya lampirkan dapat dikunjungi pada tautan <a href="https://github.com/yuris60/berkas_serkom">disini</a>.
-
-Terimakasih atas perhatian bapak/ibu.
+Berikut ini saya lampirkan persyaratan untuk Sertifikasi Kompetensi LSP BSI, adapun yang saya lampirkan dapat dikunjungi pada tautan <a href="https://github.com/yuris60/berkas_serkom">disini</a>. Terimakasih atas perhatian bapak/ibu.
 <blockquote>Salam Kompeten 👋</blockquote>
 
 <!--
