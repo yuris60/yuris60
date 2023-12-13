@@ -65,6 +65,7 @@ const profile = {
     work: 'Lecturer & Mobile Programmer',
     institution: 'Universitas Bina Sarana Informatika (UBSI)',
     division: 'SI DIP',
+    skill: 'Coding, Graphic Designer, Video Editor',
     youtube: 'https://www.youtube.com/@YurisAlkhalifiYAK',
     googlescholar: 'https://scholar.google.com/citations?user=JejMIVwAAAAJ',
     sintakemdikbud: 'https://sinta.kemdikbud.go.id/authors/profile/6769136',
