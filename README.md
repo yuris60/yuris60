@@ -73,6 +73,8 @@ const profile = {
 }
 ```
 
+![yuris60's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuris60&theme=default&show_icons=true)
+
 <!--
 # Berkas Serkom 👋
 Yth. Bapak/Ibu Asesor Sertifikasi Kompetensi,<br>
