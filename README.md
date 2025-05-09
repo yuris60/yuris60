@@ -37,8 +37,9 @@
 
 <p align="center" style="text-align: center; width:100%;">
   <h6>FRAMEWORK & LIBRARY USED</h6>
-  <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=fff&style=for-the-badge"/></span>
   <span><img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge"/></span>
+  <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge"/></span>
   <span><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge"/></span>
   <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"/></span>
 </p>
